@@ -1,0 +1,19 @@
+# Credentials
+*.json
+*.env
+credentials/
+
+# Python artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Local data files (Important!)
+*.csv
+*.parquet
+data/
